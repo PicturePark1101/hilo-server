@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    url: jdbc:h2:tcp://localhost/~/localDB/hilo
+    driver-class-name: org.h2.Driver
+    username: sa
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        # show_sql: true
+        format_sql: true
+
+aws-property:
+  s3-bucket-name: hilo-bucket
+  access-key: AKIAU6GDVFDQU6Z6XYGI
+  secret-key: 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
+  aws-region: ap-northeast-2
