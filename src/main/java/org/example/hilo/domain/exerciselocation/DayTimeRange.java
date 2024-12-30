@@ -1,4 +1,4 @@
-package org.example.hilo.domain.location;
+package org.example.hilo.domain.exerciselocation;
 
 import java.time.DayOfWeek;
 import java.time.LocalTime;
