@@ -1,4 +1,4 @@
-package org.example.hilo.domain.location;
+package org.example.hilo.domain.exerciselocation;
 
 public enum ExerciseCategory {
   GYM("헬스장"),

@@ -1,7 +1,7 @@
-package org.example.hilo.domain.location.userexercise;
+package org.example.hilo.domain.exerciselocation.userexercise;
 
 import java.time.LocalDateTime;
-import org.example.hilo.domain.location.ExerciseLocation;
+import org.example.hilo.domain.exerciselocation.ExerciseLocation;
 import org.example.hilo.domain.user.User;
 
 public class UserExerciseLocation {
